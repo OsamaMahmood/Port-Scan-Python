@@ -4,6 +4,13 @@
 #!Website : http://securitytraning.com
 
 from socket import * 
+import os
+
+if os.name == 'nt':
+	os.system('cls')
+else:
+	os.system('clear')
+
 
 print "*******************************************"
 print "************Simple Port Scanner************"
