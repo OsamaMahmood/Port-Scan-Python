@@ -7,8 +7,10 @@ Compatibility: Windows , Linux or any device running python
 
 It is a simple port scanning script which can be very handy while doing a penetration testing on a website it is quick and provide accurate 
 information.
+
 Linux Command
 Usage : python portscan.py
+
 Windows Command
 Usage : portscan.py
 
