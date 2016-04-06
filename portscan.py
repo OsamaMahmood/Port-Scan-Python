@@ -19,7 +19,7 @@ print "*******************************************"
 if __name__ == '__main__':
     targetserver = raw_input('Enter host to scan: ')
     targetIP = gethostbyname(targetserver)
-    print 'Ready to Exploit :3 ', targetIP
+    print 'Ready to scan :3 ', targetIP
 
     #scan reserved ports
     for i in range(1, 1025):
