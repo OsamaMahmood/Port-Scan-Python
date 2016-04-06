@@ -2,6 +2,8 @@
 Author: Osama Mahmood
 Site: http://securitytraning.com
 
+This is only for educational Purposes use it on your own risk
+
 Python Version required : Compatiable with all
 Compatibility: Windows , Linux or any device running python
 
