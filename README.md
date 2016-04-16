@@ -19,4 +19,4 @@ Usage : portscan.py
 
 If you want to report a problem related to this tool or if you want to request a new feature, feel
 
-free to mail me on (osama.mahmood40@gmail.com)
+free to mail me on (osama.mahmood40@gmail.com) to provide your feed back so we can improve it for more advance use.
